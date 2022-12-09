@@ -15,7 +15,7 @@ Ripper can find and remove comments code.
 * NodeJs
 * Npm
 
-# Installation
+## Installation
 ---
 You can install ripper using npm.
 > npm install @alienxr/ripper
