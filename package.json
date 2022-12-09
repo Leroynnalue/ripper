@@ -1,0 +1,22 @@
+{
+  "name": "@alienxr/ripper",
+  "version": "1.0.01",
+  "description": "gets rid of comments in file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leroynnalue/ripper.git"
+  },
+  "keywords": [
+    "Ripper"
+  ],
+  "author": "ALIENXROY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leroynnalue/ripper/issues"
+  },
+  "homepage": "https://github.com/Leroynnalue/ripper#readme"
+}
